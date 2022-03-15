@@ -1,3 +1,15 @@
+# Ignore All
+*
+
+# Uniginore all files with extensions
+!*.*
+
+# Uniginore directories
+!*/
+
+# Uniginore makefiles
+!*Makefile
+
 # Prerequisites
 *.d
 
