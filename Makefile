@@ -3,3 +3,5 @@ cranium:
 
 clean:
 	rm cranium
+
+cranium: cranium.c
